@@ -10,4 +10,4 @@ The developed algorithm copes with the abovementioned challenge by integrating:
 3. Object recognition 
 4. Extended Kalman filter (EKF)
 
-By seperating pixels belong to the background from those from the foreground, the 3D motion of the camera carried by an aerial vehicle can be estimateed. 
+By seperating pixels belong to the background from those from the foreground, the 3D motion of the camera carried by an aerial vehicle can be estimated. 
