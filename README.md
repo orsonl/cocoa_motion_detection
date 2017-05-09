@@ -1,7 +1,7 @@
 # cocoa_motion_detection
 This project contains motion detection algorithm from the paper entitled as "COCOA: Tracking in Aerial Imagery". 
 
-One of the main challenge of tracking and visual odometry using aerial imagery is to distinguish moving object from background as the camera is also moving. 
+One of the main challenges of tracking and visual odometry using aerial imagery is to distinguish moving object from the background as the camera is also moving. 
 
 The developed algorithm copes with the abovementioned challenge by integrating:
 
